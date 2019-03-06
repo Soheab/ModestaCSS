@@ -48,7 +48,7 @@ Visit this link for docs: [https://modesta.alexflipnote.dev/](https://modesta.al
 - [React-Modesta](https://modesta.bowser65.xyz/)
 
 ## Pages that uses ModestaCSS
-- [alexflipnote.dev](https://alexflipnote.dev/)
+- [Alexflipnote.dev](https://alexflipnote.dev/)
 - [AlexFlipnote/Homepage](https://alexflipnote.dev/homepage)
 - [React-Modesta](https://modesta.bowser65.xyz/)
 - [Terminal Bot List](https://ls.terminal.ink/)
